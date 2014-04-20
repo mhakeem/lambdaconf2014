@@ -1,4 +1,4 @@
-TE: This is an exact copt of notes.docx_
+_NOTE: This is an exact copt of notes.docx_
 
 ##(8 - 9:30) Purescript workshop:
 http://functorial.com/
